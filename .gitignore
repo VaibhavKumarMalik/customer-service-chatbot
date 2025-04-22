@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS/System
+.DS_Store
+Thumbs.db
+
+# IDEs/editors
+.vscode/
+.idea/
+
+# Python virtualenv
+nlp/venv/
+__pycache__/
+*.pyc
+
+# Runtime
+coverage/
+dist/
+build/
+*.pid
+
+# Optional: log or data uploads
+uploads/
+temp/
