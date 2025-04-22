@@ -4,6 +4,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
+    "nlp": "python nlp/nlp_service.py",
     "dev": "nodemon app.js"
   },
   "keywords": [],
